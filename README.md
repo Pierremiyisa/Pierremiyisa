@@ -16,7 +16,7 @@
 
 ### À propos
 
-Fondateur d'**ON THE ROCK**, imprimerie et studio multimédia à Goma. Je conçois des outils de gestion et des tableaux de bord pour les entreprises et les organisations d'Afrique centrale, et je forme au design graphique, print, Bureautique & Informatique de base et à la technologie au service des églises (ChurchTech).
+Fondateur d'**ON THE ROCK**, imprimerie et studio multimédia à Goma. Je conçois des outils de gestion et des tableaux de bord pour les entreprises et les organisations, et je forme au design graphique, print, Bureautique & Informatique de base et à la technologie au service des églises (ChurchTech).
 
 ### Projets
 
