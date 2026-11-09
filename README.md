@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://on-the-rock-site.vercel.app"><img src="https://img.shields.io/badge/Site%20web-ON%20THE%20ROCK-0077FF?logo=googlechrome&logoColor=white" alt="Site web ON THE ROCK"></a>
+  <a href="https://on-the-rock.pages.dev"><img src="https://img.shields.io/badge/Site%20web-ON%20THE%20ROCK-0077FF?logo=googlechrome&logoColor=white" alt="Site web ON THE ROCK"></a>
   <a href="https://www.linkedin.com/company/on-the-rock-print/"><img src="https://img.shields.io/badge/LinkedIn-ON%20THE%20ROCK-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/share/1GFXHRxLrx/"><img src="https://img.shields.io/badge/Facebook-ON%20THE%20ROCK-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.instagram.com/ontherockmutlimedia"><img src="https://img.shields.io/badge/Instagram-ontherockmutlimedia-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -26,8 +26,9 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 | Projet | Description | Technologies |
 |---|---|---|
 | **versets-du-jour** | Outil ChurchTech de production des visuels « verset du jour » : français, anglais, swahili, lingala, 13 Bibles intégrées, thème personnalisable, export prêt à publier | JavaScript · Canvas · Hors ligne |
-| [**on-the-rock-site**](https://on-the-rock-site.vercel.app) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, administration sans code | Astro · Pages CMS · Vercel |
-| **on-the-rock-erp-v2** | ERP d'une imprimerie : ventes et caisse USD/CDF, CRM, paie RDC, plan stratégique, fiscal, mobile | Node.js · SQLite · Windows |
+| [**on-the-rock-site**](https://on-the-rock.pages.dev) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, importée dans l'ERP sans ressaisie, administration sans code | Astro · Pages CMS · Cloudflare Pages |
+| **on-the-rock-erp-v2** | ERP d'une imprimerie, en production (v2.1) : ventes et caisse USD/CDF, atelier, CRM, paie RDC, plan stratégique, fiscal, mobile, import des commandes du site, documents PDF sur une page | Node.js · SQLite · Windows |
+| **Logiciel d'élections paroissiales** | Scrutin sur réseau local : postes de vote, dépouillement et résultats, édition personnalisable par paroisse | JavaScript · Hors ligne |
 | **on-the-rock-erp-v1** | Première version de l'ERP (archivée) | Node.js · SQLite |
 | **nuru-memoire-bi-2025** | Mémoire de Master 2 : tableau de bord ISO 50001 d'un mini-réseau solaire | Power BI · DAX · MySQL · Python |
 | [**rapport-power-bi-test-git**](https://github.com/Pierremiyisa/rapport-power-bi-test-git) | Versionnement Git d'un rapport Power BI (PBIP) | Power BI · TMDL |
@@ -84,7 +85,7 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Pages">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
