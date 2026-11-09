@@ -23,6 +23,7 @@ Fondateur d'**ON THE ROCK**, imprimerie et studio multimédia à Goma. Je conço
 
 | Projet | Description | Technologies |
 |---|---|---|
+| **versets-du-jour** *(dépôt privé pour l'instant)* | Outil ChurchTech de production des visuels « verset du jour » : français, anglais, swahili, lingala, 13 Bibles intégrées, thème personnalisable, export prêt à publier | JavaScript · Canvas · Hors ligne |
 | [**on-the-rock-site**](https://on-the-rock-site.vercel.app) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, administration sans code | Astro · Pages CMS · Vercel |
 | [**on-the-rock-erp-v2**](https://github.com/Pierremiyisa/on-the-rock-erp_v2) | ERP d'une imprimerie : ventes et caisse USD/CDF, CRM, paie RDC, plan stratégique, fiscal, mobile | Node.js · SQLite · Windows |
 | [**on-the-rock-erp-v1**](https://github.com/Pierremiyisa/ERP-ON-THE-ROCK-VERSION-1-NOV-2026) | Première version de l'ERP (archivée) | Node.js · SQLite |
