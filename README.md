@@ -27,6 +27,7 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 |---|---|---|
 | **Quick Brand** | Extension Adobe Illustrator qui génère une charte graphique complète (jusqu'à 35 pages modifiables) à partir d'un logo et d'un formulaire : 6 styles, français ou anglais, export AI, PDF et PNG. Produit digital ON THE ROCK (v1.0) | JavaScript · CEP · ExtendScript |
 | **RECONSTRUCT** | Kit IA « affiche → calques » : Claude analyse une affiche et produit un script qui la reconstruit en fichier Photoshop, Illustrator ou InDesign multicalque, éditable élément par élément | Claude · ExtendScript · Python |
+| **Site web CBCA Kyeshero (design)** | Design complet du site de la Paroisse CBCA Kyeshero : design system, maquettes desktop et mobile, prototype interactif ; développement assuré par Kwetu Best Technology | Figma · Design system |
 | **versets-du-jour** | Outil ChurchTech de production des visuels « verset du jour » : français, anglais, swahili, lingala, 13 Bibles intégrées, thème personnalisable, export prêt à publier | JavaScript · Canvas · Hors ligne |
 | [**on-the-rock-site**](https://on-the-rock.pages.dev) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, importée dans l'ERP sans ressaisie, administration sans code | Astro · Pages CMS · Cloudflare Pages (v2.4) |
 | **on-the-rock-erp-v2** | ERP d'une imprimerie, en production (v2.1) : ventes et caisse USD/CDF, atelier, CRM, paie RDC, plan stratégique, fiscal, mobile, import des commandes du site, documents PDF sur une page | Node.js · SQLite · Windows |
@@ -40,10 +41,11 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 #### Compétences principales
 
 <p>
-  <b>Design & print</b><br>
+  <b>Design, web design & print</b><br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF" alt="Photoshop">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00" alt="Illustrator">
   <img src="https://img.shields.io/badge/InDesign-FF3366" alt="InDesign">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
 </p>
 
 <p>
@@ -72,6 +74,7 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 </p>
 
 - **Design & print :** identité visuelle, mise en page, prépresse (CMJN, fonds perdus, profils ICC), grand format
+- **Web design :** design system, maquettes desktop et mobile, prototypes interactifs sous Figma
 - **Multimédia & ChurchTech :** photographie, montage, audio, projection et diffusion de cultes
 - **Formation :** design graphique, print, bureautique, informatique de base, technologie au service des églises
 - **Management :** management des organisations et des systèmes d'information
