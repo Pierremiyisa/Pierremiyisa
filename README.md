@@ -1,7 +1,7 @@
 <h1 align="center">Pierre Miyisa</h1>
 
 <p align="center">
-  <b>Designer graphique & imprimeur · Formateur · Data & business intelligence · Chercheur en management des systèmes d'information</b><br>
+  <b>Designer graphique & imprimeur · Formateur · Data & business intelligence · Entrepreneur Digital</b><br>
   Goma, République démocratique du Congo
 </p>
 
