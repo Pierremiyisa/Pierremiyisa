@@ -32,7 +32,6 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 | **on-the-rock-erp-v2** | ERP d'une imprimerie, en production (v2.1) : ventes et caisse USD/CDF, atelier, CRM, paie RDC, plan stratégique, fiscal, mobile, import des commandes du site, documents PDF sur une page | Node.js · SQLite · Windows |
 | **Logiciel d'élections paroissiales** | Scrutin sur réseau local : postes de vote, dépouillement et résultats, édition personnalisable par paroisse | JavaScript · Hors ligne |
 | **on-the-rock-erp-v1** | Première version de l'ERP (archivée) | Node.js · SQLite |
-| **Livre en préparation** | *Piloter par l'information en contexte fragile* : le management des systèmes d'information à l'Est de la RDC | Recherche · Design Science Research |
 | **nuru-memoire-bi-2025** | Mémoire de Master 2 : tableau de bord ISO 50001 d'un mini-réseau solaire | Power BI · DAX · MySQL · Python |
 | [**rapport-power-bi-test-git**](https://github.com/Pierremiyisa/rapport-power-bi-test-git) | Versionnement Git d'un rapport Power BI (PBIP) | Power BI · TMDL |
 
