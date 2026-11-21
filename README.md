@@ -1,7 +1,7 @@
 <h1 align="center">Pierre Miyisa</h1>
 
 <p align="center">
-  <b>Designer graphique & imprimeur · Data & business intelligence · Entrepreneur digital</b><br>
+  <b>Designer graphique & imprimeur · Formateur · Data & business intelligence · Chercheur en management des systèmes d'information</b><br>
   Goma, République démocratique du Congo
 </p>
 
@@ -17,7 +17,7 @@
 
 ### À propos
 
-Fondateur d'**ON THE ROCK**, imprimerie et studio multimédia à Goma. Je crée des identités visuelles et des supports imprimés, je forme au design graphique, au print, à la bureautique et à l'informatique de base, et je mets la technologie au service des entreprises, des organisations et des églises (ChurchTech).
+Fondateur et directeur gérant d'**ON THE ROCK**, imprimerie et studio multimédia à Goma. Je crée des identités visuelles et des supports imprimés, je forme au design graphique, au print, à la bureautique et à l'informatique de base, et je mets la technologie au service des entreprises, des organisations et des églises (ChurchTech).
 
 L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-delà de mon domaine d'expertise.
 
@@ -25,11 +25,14 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
 
 | Projet | Description | Technologies |
 |---|---|---|
+| **Quick Brand** | Extension Adobe Illustrator qui génère une charte graphique complète (jusqu'à 35 pages modifiables) à partir d'un logo et d'un formulaire : 6 styles, français ou anglais, export AI, PDF et PNG. Produit digital ON THE ROCK (v1.0) | JavaScript · CEP · ExtendScript |
+| **RECONSTRUCT** | Kit IA « affiche → calques » : Claude analyse une affiche et produit un script qui la reconstruit en fichier Photoshop, Illustrator ou InDesign multicalque, éditable élément par élément | Claude · ExtendScript · Python |
 | **versets-du-jour** | Outil ChurchTech de production des visuels « verset du jour » : français, anglais, swahili, lingala, 13 Bibles intégrées, thème personnalisable, export prêt à publier | JavaScript · Canvas · Hors ligne |
-| [**on-the-rock-site**](https://on-the-rock.pages.dev) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, importée dans l'ERP sans ressaisie, administration sans code | Astro · Pages CMS · Cloudflare Pages |
+| [**on-the-rock-site**](https://on-the-rock.pages.dev) | Site web d'ON THE ROCK : services, réalisations, références clients, commande en ligne via WhatsApp et e-mail, importée dans l'ERP sans ressaisie, administration sans code | Astro · Pages CMS · Cloudflare Pages (v2.4) |
 | **on-the-rock-erp-v2** | ERP d'une imprimerie, en production (v2.1) : ventes et caisse USD/CDF, atelier, CRM, paie RDC, plan stratégique, fiscal, mobile, import des commandes du site, documents PDF sur une page | Node.js · SQLite · Windows |
 | **Logiciel d'élections paroissiales** | Scrutin sur réseau local : postes de vote, dépouillement et résultats, édition personnalisable par paroisse | JavaScript · Hors ligne |
 | **on-the-rock-erp-v1** | Première version de l'ERP (archivée) | Node.js · SQLite |
+| **Livre en préparation** | *Piloter par l'information en contexte fragile* : le management des systèmes d'information à l'Est de la RDC | Recherche · Design Science Research |
 | **nuru-memoire-bi-2025** | Mémoire de Master 2 : tableau de bord ISO 50001 d'un mini-réseau solaire | Power BI · DAX · MySQL · Python |
 | [**rapport-power-bi-test-git**](https://github.com/Pierremiyisa/rapport-power-bi-test-git) | Versionnement Git d'un rapport Power BI (PBIP) | Power BI · TMDL |
 
@@ -87,8 +90,9 @@ L'IA me permet d'accélérer, de m'inspirer et de produire des solutions au-del�
   <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Pages">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ExtendScript%20%26%20CEP-Adobe-FF0000" alt="ExtendScript et CEP pour Adobe">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 </p>
 
-- **Vibe coding, vibe design et vibe motion :** ERP, sites web, outils ChurchTech, visuels et animations
+- **Vibe coding, vibe design et vibe motion :** ERP, sites web, extensions Adobe, outils ChurchTech, visuels et animations
